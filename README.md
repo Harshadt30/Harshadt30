@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harshadt30
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+<!-- - 💞️ I’m looking to collaborate on ... -->
 - 📧tharshad50@gmail.com
 
 <!---
